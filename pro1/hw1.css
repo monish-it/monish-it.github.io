@@ -2,11 +2,11 @@ html{
 	font-size: 150%;
 }
 a{
-	background-color: blue;
+	background-color: rgb(36, 36, 202);
 	color: black;
 }
 header{
-	background: #ABA6A6;
+	background: #668aec;
 	color: white;
 }
 h1{
@@ -17,9 +17,9 @@ aside{
 	display: none;
 }
 section{
-	background-color: #796E6E;
+	background-color: #3e86e6;
 }
 h2{
-	color: blue;
+	color: rgb(55, 55, 224);
 	text-transform: uppercase;
 }
