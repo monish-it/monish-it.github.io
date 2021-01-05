@@ -1,0 +1,2 @@
+install "pip install simple-image-download" module with cmd and run py program
+then specify the required image within "quotes and numbers in the program 
